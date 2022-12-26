@@ -2866,6 +2866,9 @@ input, select, textarea {
 					width: 2em;
 					height: 2em;
 				}
+					#header .logo .symbol .title {
+						color:white;
+					}				
 
 		#header nav {
 			position: fixed;
