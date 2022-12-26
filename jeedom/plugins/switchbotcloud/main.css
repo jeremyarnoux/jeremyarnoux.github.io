@@ -2868,7 +2868,11 @@ input, select, textarea {
 				}
 					#header .logo .symbol .title {
 						color:white;
-					}				
+					}
+					#header a,#header a:hover {
+						/* border-bottom-color: transparent; */
+						color: #ffffff !important;
+					}						
 
 		#header nav {
 			position: fixed;
