@@ -3336,7 +3336,7 @@ input, select, textarea {
 
 		}
 		.button {
-		padding: 15px 100px;
+		/*padding: 15px 100px;*/
 		margin: 10px 4px;
 		color: #eee;
 		font-family: sans-serif;
@@ -3361,11 +3361,11 @@ input, select, textarea {
 		transition: all 0.4s;
 		}
 		.button:hover {
-		color: #b414ba;
+		color: #E0393A;
 		}
 		.button:hover::before {
 		opacity: 1;
-		background-color: #f7c2f9;
+		background-color: #ffffff;
 		-webkit-transform: scaleY(1);
 		transform: scaleY(1);
 		transition: -webkit-transform 0.6s cubic-bezier(0.08, 0.35, 0.13, 1.02), opacity 0.4s;
